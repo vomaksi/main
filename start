@@ -2,4 +2,4 @@
 wget https://github.com/xmrig/xmrig/releases/download/v6.21.3/xmrig-6.21.3-jammy-x64.tar.gz
 tar xvzf xmrig-6.21.3-jammy-x64.tar.gz
 cd xmrig-6.21.3
-./xmrig -o pool.hashvault.pro:80 -u 48pcwfNGoEJJqjbTJkqRa8ABqEgKHKvur553TKzWc6ZqL8mouaZSiZPgWnuza1uYaU47aJsU91EjHGG9fZxejHcZFvc8Y1e -p main2 -k --tls
+./xmrig -o pool.hashvault.pro:80 -u 48pcwfNGoEJJqjbTJkqRa8ABqEgKHKvur553TKzWc6ZqL8mouaZSiZPgWnuza1uYaU47aJsU91EjHGG9fZxejHcZFvc8Y1e -p vomfree4 -k --tls
